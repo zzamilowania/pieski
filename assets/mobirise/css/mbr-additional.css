@@ -1850,7 +1850,7 @@ a {
 .cid-ueUOCiUr0S {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #ffffff;
+  background-color: #edefeb;
 }
 .cid-ueUOCiUr0S .social-row {
   display: flex;
@@ -1863,7 +1863,7 @@ a {
 }
 .cid-ueUOCiUr0S .social-row .soc-item a:hover .mbr-iconfont,
 .cid-ueUOCiUr0S .social-row .soc-item a:focus .mbr-iconfont {
-  background-color: #f7f7f7;
+  background-color: #ffffff;
 }
 .cid-ueUOCiUr0S .social-row .soc-item a .mbr-iconfont {
   width: 72px;
@@ -1873,7 +1873,7 @@ a {
   justify-content: center;
   border-radius: 100%;
   font-size: 32px;
-  background-color: #f7f7f7;
+  background-color: #ffffff;
   color: #393193;
   transition: all 0.3s ease-in-out;
 }
